@@ -22,3 +22,11 @@ const radius = 8; //number
 const circle = radius * 2 * PI; //number
 // Print the value of the variable circle to the console.
 console.log(circle);
+
+// Exercise 3
+// Declare a variable name (name is deprecated) and assign it the value "Carlo"
+let userName = 'Carlo'; //string
+// Change the value of the variable to "Marco".
+userName = 'Marco';
+// Print the new value to the console.
+console.log(userName);
