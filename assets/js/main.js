@@ -10,3 +10,8 @@ console.log(number);
 const PI = 3.14; //number
 // Print the value of the constant to the console.
 console.log(PI);
+
+// Exercise 2/B
+// Try assign to the constant PI the value of 3.1416. Can you tell what's happening?
+// The value of a constant cannot be changed (error: Assignment to constant variable.)
+
