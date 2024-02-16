@@ -45,3 +45,9 @@ let temperature = 22.5;
 temperature += 5;
 // Print the new value to the console.
 console.log(temperature);
+
+// Exercise 5: Numbers
+// What's the difference between the number 3.14 and 100? Are they different? Why? What's their data type?
+// 3.24 is a floating-point number (a number with a fractional part)
+// 100 is an integer (a whole number with no fractional part)
+console.log(typeof 3.14, typeof 100); // they are both numbers
