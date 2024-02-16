@@ -11,7 +11,7 @@
 > - Try assign to the constant PI the value of 3.1416. Can you tell what's happening?
 > ## Exercise 2/C
 > - Declare a variable called radius and assign it the value of 8. 
-> - Multiply rafius x 2 and x PI then assign the value to a variable named circle.
+> - Multiply radius x 2 and x PI then assign the value to a variable named circle.
 > - Print the value of the variable circle to the console.
 
 > ## Exercise 3
