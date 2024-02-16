@@ -37,3 +37,11 @@ console.log(userName);
     name = 'Marco';
     console.log(name);
 })();
+
+// Exercise 4
+// Declare a variable called temperature and assign it the value 22.5
+let temperature = 22.5; 
+// Add 5 to it.
+temperature += 5;
+// Print the new value to the console.
+console.log(temperature);

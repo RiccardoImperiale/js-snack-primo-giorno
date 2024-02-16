@@ -19,4 +19,15 @@
 > - Change the value of the variable to "Marco".
 > - Print the new value to the console.
 
+> ## Exercise 4
+> - Declare a variable called temperature and assign it the value 22.5
+> - Add 5 to it.
+> - Print the new value to the console.
+
+> ## Exercise 5: Numbers
+> - What's the difference between the number 3.14 and 100? Are they different? Why? What's their data type?
+
+> ## Exercise 6: Console
+> - What's the difference between console.log() and console.info()? Why? Are there other ways to use the console?
+
 NOTE: in each exercise, write a comment with the data type of each variable.
