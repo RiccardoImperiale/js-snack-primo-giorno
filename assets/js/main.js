@@ -24,9 +24,16 @@ const circle = radius * 2 * PI; //number
 console.log(circle);
 
 // Exercise 3
-// Declare a variable name (name is deprecated) and assign it the value "Carlo"
+// Declare a variable name (name is deprecated so I changed it to userName) and assign it the value "Carlo"
 let userName = 'Carlo'; //string
 // Change the value of the variable to "Marco".
 userName = 'Marco';
 // Print the new value to the console.
 console.log(userName);
+
+// Possible solution to "name is deprecated".
+(() => {
+    let name = "Carlo";
+    name = 'Marco';
+    console.log(name);
+})();
