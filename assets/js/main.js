@@ -40,7 +40,7 @@ console.log(userName);
 
 // Exercise 4
 // Declare a variable called temperature and assign it the value 22.5
-let temperature = 22.5; 
+let temperature = 22.5;
 // Add 5 to it.
 temperature += 5;
 // Print the new value to the console.
@@ -48,6 +48,27 @@ console.log(temperature);
 
 // Exercise 5: Numbers
 // What's the difference between the number 3.14 and 100? Are they different? Why? What's their data type?
-// 3.24 is a floating-point number (a number with a fractional part)
-// 100 is an integer (a whole number with no fractional part)
 console.log(typeof 3.14, typeof 100); // they are both numbers
+/* 
+3.24 is a floating-point number (a number with a fractional part)
+100 is an integer (a whole number with no fractional part)
+*/
+
+// Exercise 6: Console
+// What's the difference between console.log() and console.info()? Why? Are there other ways to use the console?
+/* 
+console.log(): Used to log general information or messages to the console. 
+It is commonly used for debugging purposes or for general logging of information. 
+
+console.info(): Also used to log information to the console, but it is specifically intended for informational messages. 
+It's often used when you want to provide additional information about the state of the application or certain processes. 
+
+console.error(): Used to log error messages. These messages are typically displayed with an error icon in the console.
+console.warn(): Used to log warning messages. These messages are typically displayed with a warning icon in the console.
+console.debug(): Used to log debug messages. These messages are often hidden by default in some browsers' developer tools, and you may need to enable them explicitly.
+console.assert(): Used to log an error message if the specified assertion is false. It's helpful for debugging and testing purposes.
+console.trace(): Used to output a stack trace to the console. It shows the function call stack at the point where the method was called.
+
+These methods provide developers with various options for logging different types of messages and debugging information. 
+The choice of which method to use depends on the nature of the message you want to log and the level of severity associated with it.
+*/
